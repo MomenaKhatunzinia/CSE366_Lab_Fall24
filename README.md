@@ -13,13 +13,13 @@ estimate the cost from the current position to each task.
 o Compare the path costs of UCS and A* by calculating and displaying the cumulative
 path cost for each algorithm as the agent completes tasks.
 
-# Lab Task 3 : Lab Task 2 : Simulation of UCS and A* Algorithms for Pathfinding
+# Lab Task 3 : Class Scheduling Optimization using Genetic Algorithms
 Objective
 Implement a Genetic Algorithm (GA) to optimize class scheduling while minimizing con-
 flicts, balancing student preferences, and respecting time slot constraints. The solution
 should include real-time visualization of schedules and fitness evaluation.
 Problem Statement
-You are tasked with creating an optimal class schedule for students. Each class has
+Tasked with creating an optimal class schedule for students. Each class has
 a specific duration and priority. Each student has unique availability and time slot
 preferences. The goal is to:
 1. Minimize scheduling conflicts.
